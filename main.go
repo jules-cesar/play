@@ -9,3 +9,7 @@ func Hello(name string) string {
 func Bye() string {
 	return "Bye Bye"
 }
+
+func Ask() string {
+	return "Can you introduce yourself ?"
+}
